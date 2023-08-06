@@ -1,3 +1,3 @@
 olaMundo.jx
 console.log("ola mundo!)");
-console.log("ola dia!");
+console.log("ola dia");
